@@ -53,12 +53,12 @@ CHAT_ID   = os.getenv("TG_CHAT_ID",   "YOUR_CHAT_ID")
 
 Replace YOUR_BOT_TOKEN and YOUR_CHAT_ID with your real values.
 Installation
-bash
+
 
 pip install requests
 
 How To Run
-bash
+
 
 python telegram.py
 
@@ -95,7 +95,7 @@ Supported File Types
 
 Requirements
 
-    Python 3.6+
+    Python
 
     requests library
 
